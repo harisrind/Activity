@@ -1,0 +1,27 @@
+When i start typing in google. I type 'introduction to'
+(3): Then google give me some suggestions
+1 introduction to computer
+2 introduction to psychology
+3 introduction to socialogy
+When i type 'introduction to' in bing.com give me some suggestions
+1 introduction to cloud computing
+2 introduction to algorithms
+3 introduction to psychology
+When i type 'introduction to' in dockdock go.com give me some suggestions
+1 introduction to sign making
+2 introduction to digital camera
+3 introduction to Excel.
+(4): Suggestions Are patterns from search engines providing
+Alternative results to informational needs of a searcher.
+(7): Google give the good suggestions because it gives the suggestions from
+Multiple field not a specific field.
+(9): First result of all search engines are same.
+(10): First result on all search engines https://guides.library.duke.edu
+(11): When someone performs a search, search engines scour their index for 
+highly relevant content and then orders that content in the hopes of
+solving the searcher's query. This ordering of search results by 
+relevance is known as ranking
+(12): Each search engine determines the relevance of a page as it
+relates to a query by using a ranking algorithm.  The ranking algorithm
+is a computerized formula designed to match highly relevant pages with
+a user's query.
